@@ -1,0 +1,2 @@
+# InstalacionOdoo
+Tarea de Odoo
