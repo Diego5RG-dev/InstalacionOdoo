@@ -25,3 +25,10 @@ El editor ya trae de forma nativa algunas herramientas para la creación de dock
 ---
 ![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/pluginvisualizacion.png)
 ---
+
+
+---
+Instalar Odoo 18 Community y PgAdmin con Docker Compose
+---
+
+Como segunda parte de este trabajo, crearemos un archivo Docker Compose, el cual subiré al repositorio.
