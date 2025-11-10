@@ -3,7 +3,7 @@
 Tarea de Odoo
 ---
 
-![alt text](https://github.com/Diego5RG-dev/Docker-installation/blob/main/recursos-Docker/primera.png)
+![alt text](https://github.com/Diego5RG-dev/Docker-installation/blob/main/recursosOdoo)
 
 En esta tarea, instalaremos Odoo a través de Docker Compose, utilizando un IDE como VS Code, PyCharm o cualquier otro de tu preferencia.
 
@@ -20,4 +20,8 @@ Después de instalar nuestro editor, lo que debemos hacer es añadir algún plug
 
 El editor ya trae de forma nativa algunas herramientas para la creación de dockers, pero en el apartado de plugins existe una serie de herramientas destinadas a la gestión y control de contenedores, lo cual nos facilitará mucho el trabajo.
 
-![alt text](https://github.com/Diego5RG-dev/Docker-installation/blob/main/recursos-Docker/primera.png)
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/plugin.png)
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/pluginvisualizacion.png)
+---
