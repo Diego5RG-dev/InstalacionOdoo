@@ -50,7 +50,7 @@ Una vez que ejecutamos este compose, podemos ver que funciona correctamente y se
 Una vez que hayamos comprobado que todo funciona, sigue un paso algo más complicado: entraremos en el navegador utilizando nuestra IP y los puertos necesarios, empezando por Odoo. Después de esto, crearemos la base de datos e iniciaremos sesión con las credenciales que hemos configurado. Finalmente, tendremos que iniciar sesión en pgAdmin y enlazar correctamente el nuevo servidor de bases de datos de Odoo para poder visualizarlo.
 
 ---
-![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/odoo.png)
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/Odoo.png)
 ---
 
 ---
@@ -60,3 +60,28 @@ Una vez que hayamos comprobado que todo funciona, sigue un paso algo más compli
 ---
 Explorar Odoo con Datos de Demo
 ---
+Ahora, como último paso, vamos a interactuar un poco con Odoo instalando las aplicaciones que nos solicitan y observando qué información nos muestra la demo y cómo esta modifica la base de datos de pgAdmin.
+
+Compras:
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/compras.png)
+---
+
+
+Ventas:
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/ventas.png)
+---
+
+
+Contactos:
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/contactos.png)
+---
+
+
+Pgadmin
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/vistapgadminfinal.png)
+---
+
