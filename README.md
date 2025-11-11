@@ -82,6 +82,6 @@ Contactos:
 
 Pgadmin
 ---
-![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/vistapgadminfinal.png)
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/pgadminfinal.png)
 ---
 
