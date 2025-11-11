@@ -3,7 +3,7 @@
 Tarea de Odoo
 ---
 
-![alt text](https://github.com/Diego5RG-dev/Docker-installation/blob/main/recursosOdoo)
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/odoologo.png)
 
 En esta tarea, instalaremos Odoo a través de Docker Compose, utilizando un IDE como VS Code, PyCharm o cualquier otro de tu preferencia.
 
@@ -32,3 +32,31 @@ Instalar Odoo 18 Community y PgAdmin con Docker Compose
 ---
 
 Como segunda parte de este trabajo, crearemos un archivo Docker Compose, el cual subiré al repositorio.
+
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/compose.png)
+---
+
+Una vez que ejecutamos este compose, podemos ver que funciona correctamente y se han creado nuevos contenedores
+
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/ComprobacionCompose.png)
+---
+
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/Desktop.png)
+---
+
+Una vez que hayamos comprobado que todo funciona, sigue un paso algo más complicado: entraremos en el navegador utilizando nuestra IP y los puertos necesarios, empezando por Odoo. Después de esto, crearemos la base de datos e iniciaremos sesión con las credenciales que hemos configurado. Finalmente, tendremos que iniciar sesión en pgAdmin y enlazar correctamente el nuevo servidor de bases de datos de Odoo para poder visualizarlo.
+
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/odoo.png)
+---
+
+---
+![alt text](https://github.com/Diego5RG-dev/InstalacionOdoo/blob/main/recursosOdoo/vistapgadmin.png)
+---
+
+---
+Explorar Odoo con Datos de Demo
+---
